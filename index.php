@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title></title>
+    <title>SEO HERO Wix Contest</title>
     <style>p {font-size: 20px !important;}</style>
     <meta charset="UTF-8">
     <meta name="description" content="Check out and know what SEO HERO Wix Contest is all about!">
