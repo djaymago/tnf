@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="description" content="Check out and know what SEO HERO Wix Contest is all about!">
     <meta name="keywords" content="SEO Hero, Wix contest">
-    <meta name="author" content="John Doe">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="blank.png">
 </head>
